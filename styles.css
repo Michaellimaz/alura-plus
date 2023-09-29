@@ -164,8 +164,9 @@ descricao__titulo{
 @media screen and (max-width: 768px) {
     .container {
         display: block;
-        background-image: none;
-
+        background-image:none;
+        padding: 1em;
+    
      }
     
     .container__imagem {
